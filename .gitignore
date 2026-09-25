@@ -1,0 +1,13 @@
+# 第三方逐字稿样本：仅本地研究用，含版权内容不随仓库发布
+research/
+
+# 用户投喂的书籍原文（可能为版权内容），不入库
+books/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+Thumbs.db
+.DS_Store
