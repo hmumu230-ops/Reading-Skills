@@ -4,6 +4,16 @@ research/
 # 用户投喂的书籍原文（可能为版权内容），不入库
 books/
 
+# plan/goal 钩子的运行时状态：会话机器文件，不入库
+.devin/.goal-state/
+.devin/.plan-state/
+.devin/goal.md
+.devin/goal.done
+.devin/blocker.md
+.devin/history.log
+.devin/goals/
+.devin/plans/
+
 # Python
 __pycache__/
 *.pyc
